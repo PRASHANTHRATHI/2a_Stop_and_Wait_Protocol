@@ -1,4 +1,4 @@
-## 2a_Stop_and_Wait_Protocol
+# 2a_Stop_and_Wait_Protocol
 
 # Name : Prashanth.K
 # Register Number : 212223230152
