@@ -1,7 +1,8 @@
+## 2a_Stop_and_Wait_Protocol
+
 # Name : Prashanth.K
 # Register Number : 212223230152
 
-# 2a_Stop_and_Wait_Protocol
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
